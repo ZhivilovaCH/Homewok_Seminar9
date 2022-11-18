@@ -1,0 +1,15 @@
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\bin\Debug\net6.0\Task66.exe
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\bin\Debug\net6.0\Task66.deps.json
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\bin\Debug\net6.0\Task66.dll
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\bin\Debug\net6.0\Task66.pdb
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.dll
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\refint\Task66.dll
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.pdb
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 8\HomeworkSeminar9\Seminar9\Task66\obj\Debug\net6.0\ref\Task66.dll

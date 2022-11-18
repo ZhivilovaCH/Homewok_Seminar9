@@ -2,28 +2,17 @@
 // Выполнить с помощью рекурсии.
 
 
-void GetN(int n)
-{
-
-    while (n != 0)
-    {
-        Console.Write($"{n}, ");
-        n -= 1;
-
-    }
-}
-
-int GetN(int n)
+string GetN(int n)
 {
     if (n == 0)
     {
-        return n;   
+        return n.ToString();   
     }
     else if(n>0){
-    Console.Write($"{n}, ");
+    Console.Write($"{n} ");
     return GetN(n-1);
     }
-    else return n;
+    else return n.ToString();
 }
 
 

@@ -3,13 +3,16 @@
 
 int GetNumbers(int m, int n)
 {
-    int number = 0;
-
-    for (int i = m; i <= n; i++)
+    if (m == n)
     {
-        number += i;
+        return m;
     }
-    return number;
+    else if (m < n)
+    {
+        return m + GetNumbers(m+1,n);
+    }
+ 
+    return m;
 }
 
 
@@ -20,11 +23,11 @@ void PrintNumbers(int number)
 
 
 Console.Clear();
-Console.Write("Введите первое число, в промежутке от : ");
+Console.Write("Введите первое число : ");
 int m = int.Parse(Console.ReadLine()!);
-Console.Write("Введите второе число, до числа : ");
+Console.Write("Введите второе число : ");
 int n = int.Parse(Console.ReadLine()!);
 
 int number = GetNumbers(m, n);
-Console.Write($"Cумму натуральных элементов в промежутке от {m} до {n} = ");
+Console.Write($"Cумма натуральных элементов в промежутке от {m} до {n} = ");
 PrintNumbers(number);
